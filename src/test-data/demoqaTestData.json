@@ -2,9 +2,6 @@
     "urls": {
         "login": "login",
         "register": "register",
-        "buttons": "buttons",
-        "practiceForm": "automation-practice-form",
-        "radioButton": "radio-button",
-        "webtables": "webtables"
+        "buttons": "buttons"
     }
 }
