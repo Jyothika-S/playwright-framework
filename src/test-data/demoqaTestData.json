@@ -3,5 +3,11 @@
         "login": "login",
         "register": "register",
         "buttons": "buttons"
+    },
+    "fillValues" : {
+        "firstname" : "tom",
+        "lastname" : "smith",
+        "username" : "tom",
+        "password" : "Tomsmith12!"
     }
 }
